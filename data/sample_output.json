@@ -1,0 +1,17 @@
+[
+    {
+        "drawDate": "2024-12-25T00:00:00",
+        "winningNumbers": ["15", "26", "27", "30", "35", "03"],
+        "powerPlayMultiplier": "3"
+    },
+    {
+        "drawDate": "2024-12-28T00:00:00",
+        "winningNumbers": ["06", "31", "51", "54", "55", "12"],
+        "powerPlayMultiplier": "2"
+    },
+    {
+        "drawDate": "2024-12-30T00:00:00",
+        "winningNumbers": ["09", "19", "33", "38", "39", "01"],
+        "powerPlayMultiplier": "3"
+    }
+]
